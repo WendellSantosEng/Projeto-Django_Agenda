@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Workspace/Vscode/Python/Projeto Django Agenda",
-      "program": "c:/Workspace/Vscode/Python/Projeto Django Agenda/build/Debug/outDebug",
+      "cwd": "c:/Workspace/Vscode/Python/Projeto Django Agenda/contact",
+      "program": "c:/Workspace/Vscode/Python/Projeto Django Agenda/contact/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
